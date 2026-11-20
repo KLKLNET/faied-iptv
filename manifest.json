@@ -3,17 +3,17 @@
   "appId": "AuraIPTV01.Main",
   "packageId": "AuraIPTV01",
   "appVersion": "1.0.2",
-  "contentVersion": "2026.11.20.3",
+  "contentVersion": "2026.11.20.4",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-20T18:18:35.000Z",
+  "releaseDate": "2026-11-20T19:23:31.000Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "ddb4cf48f362c3c4fef990b8bc0c157be8b8a91b4fa633817c6978fbd052e3b3",
-  "size": 519436,
+  "sha256": "a83b120754653b39844234dd2f7c284ae501d3f2d944705ab8d033837ba0fe33",
+  "size": 519737,
   "mandatory": false,
   "releaseNotes": {
-    "en": "Fixed AVPlay blue screen, fixed homepage rails flex layout, Smarters/Morph-style catalog with counts & ratings, and complete TV Series seasons & episodes browser",
-    "ar": "إصلاح الشاشة الزرقاء في مشغل الفيديو، تصليح بطاقات الصفحة الرئيسية، تصميم الكتالوج الحديث مع عداد الأقسام والتقييم، ومستعرض كامل لحلقات وأجزاء ومواسم المسلسلات"
+    "en": "Fixed settings screen crash, fixed Check for Updates button, fixed AVPlay blue screen, fixed homepage rails flex layout, Smarters/Morph-style catalog with counts & ratings, and TV Series seasons & episodes browser",
+    "ar": "إصلاح خطأ شاشة الإعدادات، تشغيل زر فحص التحديثات، إصلاح الشاشة الزرقاء في مشغل الفيديو، تصليح بطاقات الصفحة الرئيسية، تصميم الكتالوج الحديث مع عداد الأقسام والتقييم، ومستعرض كامل لحلقات وأجزاء ومواسم المسلسلات"
   },
   "remoteConfig": {
     "theme": {
