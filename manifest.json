@@ -1,0 +1,34 @@
+{
+  "appName": "FaiedIptv",
+  "appId": "AuraIPTV01.Main",
+  "packageId": "AuraIPTV01",
+  "appVersion": "1.0.1",
+  "contentVersion": "2026.11.20.2",
+  "minAppVersion": "1.0.0",
+  "releaseDate": "2026-11-20T15:36:48.028Z",
+  "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
+  "packageFileName": "AuraIPTV-1.0.0.wgt",
+  "sha256": "7963067ce0ef54d0c954e10570b81a87c5673035f459b7c989d0f0d9ac433047",
+  "size": 509186,
+  "mandatory": false,
+  "releaseNotes": {
+    "en": "Morph-inspired Cinematic UI, Stalker Portal, Kids Mode, and Mobile QR Pairing",
+    "ar": "واجهة سينمائية حديثة، بوابة ستالكر، وضع الأطفال، والربط بالهاتف عبر QR"
+  },
+  "remoteConfig": {
+    "theme": {
+      "accentColor": "#38bdf8",
+      "brandName": "FaiedIptv",
+      "themeClass": "theme-midnight"
+    },
+    "posterFitMode": "smart",
+    "announcement": {
+      "active": false,
+      "id": "ann-1.0.0",
+      "title": "Welcome to FaiedIptv",
+      "title_ar": "مرحباً بكم في FaiedIptv",
+      "message": "Enjoy premium streaming on Samsung Smart TV!",
+      "message_ar": "استمتع بأفضل تجربة مشاهدة على شاشات سامسونج سمارت!"
+    }
+  }
+}
