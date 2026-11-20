@@ -2,33 +2,33 @@
   "appName": "FaiedIptv",
   "appId": "AuraIPTV01.Main",
   "packageId": "AuraIPTV01",
-  "appVersion": "1.0.1",
-  "contentVersion": "2026.11.20.2",
+  "appVersion": "1.0.2",
+  "contentVersion": "2026.11.20.3",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-20T15:36:48.028Z",
+  "releaseDate": "2026-11-20T18:18:35.000Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "7963067ce0ef54d0c954e10570b81a87c5673035f459b7c989d0f0d9ac433047",
-  "size": 509186,
+  "sha256": "ddb4cf48f362c3c4fef990b8bc0c157be8b8a91b4fa633817c6978fbd052e3b3",
+  "size": 519436,
   "mandatory": false,
   "releaseNotes": {
-    "en": "Morph-inspired Cinematic UI, Stalker Portal, Kids Mode, and Mobile QR Pairing",
-    "ar": "واجهة سينمائية حديثة، بوابة ستالكر، وضع الأطفال، والربط بالهاتف عبر QR"
+    "en": "Fixed AVPlay blue screen, fixed homepage rails flex layout, Smarters/Morph-style catalog with counts & ratings, and complete TV Series seasons & episodes browser",
+    "ar": "إصلاح الشاشة الزرقاء في مشغل الفيديو، تصليح بطاقات الصفحة الرئيسية، تصميم الكتالوج الحديث مع عداد الأقسام والتقييم، ومستعرض كامل لحلقات وأجزاء ومواسم المسلسلات"
   },
   "remoteConfig": {
     "theme": {
-      "accentColor": "#38bdf8",
+      "accentColor": "#e50914",
       "brandName": "FaiedIptv",
       "themeClass": "theme-midnight"
     },
     "posterFitMode": "smart",
     "announcement": {
       "active": false,
-      "id": "ann-1.0.0",
-      "title": "Welcome to FaiedIptv",
-      "title_ar": "مرحباً بكم في FaiedIptv",
-      "message": "Enjoy premium streaming on Samsung Smart TV!",
-      "message_ar": "استمتع بأفضل تجربة مشاهدة على شاشات سامسونج سمارت!"
+      "id": "ann-1.0.2",
+      "title": "FaiedIptv v1.0.2 Update",
+      "title_ar": "تحديث FaiedIptv v1.0.2",
+      "message": "Enjoy enhanced playback, scrubbing, series episodes, and new catalog layout!",
+      "message_ar": "استمتع بمشغل متطور، تصفح الحلقات والمواسم، وتصميم الكتالوج الجديد!"
     }
   }
 }
