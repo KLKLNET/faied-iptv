@@ -5,10 +5,10 @@
   "appVersion": "1.0.2",
   "contentVersion": "2026.11.20.4",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-20T19:23:31.000Z",
+  "releaseDate": "2026-11-20T19:54:36.000Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "a83b120754653b39844234dd2f7c284ae501d3f2d944705ab8d033837ba0fe33",
+  "sha256": "fe09936826efb3f8e11f39d8866112e6078d843727ddc0f368dda5731eac9e87",
   "size": 519737,
   "mandatory": false,
   "releaseNotes": {
