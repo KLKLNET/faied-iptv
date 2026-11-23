@@ -2,16 +2,16 @@
   "appName": "FaiedIptv",
   "appId": "AuraIPTV01.Main",
   "packageId": "AuraIPTV01",
-  "appVersion": "1.0.7",
-  "contentVersion": "2026.11.23.5",
+  "appVersion": "1.0.8",
+  "contentVersion": "2026.11.23.6",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-23T16:15:35.100Z",
+  "releaseDate": "2026-11-23T18:35:00.000Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "57403b70a598a05ac3828fd07156b15f53a5467040eaf77e3185358c5a59d798",
-  "size": 1278133,
+  "sha256": "6e39dd8d3da4ed5419af0c3e33a786d9f7ee8d2e0687522077d0ef5b9c0a3d77",
+  "size": 1280844,
   "mandatory": false,
-  "releaseNotes": "v1.0.7: Fullscreen categories grid redesign for Live TV, Movies and Series, 5-column poster grids, multi-stage seamless navigation with remote focus memory, fixed HTTP 404 update URL migration, and complete ES5 compatibility.",
+  "releaseNotes": "v1.0.8: Fixed remote inertia lag with RAF busy-lock and stale event rejection; replaced emojis with crisp pure SVG icons; added missing Arabic i18n keys for categories and counts; optimized spatial navigation performance.",
   "remoteConfig": {
     "theme": {
       "accentColor": "#e50914",
@@ -21,11 +21,11 @@
     "posterFitMode": "smart",
     "announcement": {
       "active": false,
-      "id": "ann-1.0.2",
-      "title": "FaiedIptv v1.0.2 Update",
-      "title_ar": "تحديث FaiedIptv v1.0.2",
-      "message": "Enjoy enhanced playback, scrubbing, series episodes, and new catalog layout!",
-      "message_ar": "استمتع بمشغل متطور، تصفح الحلقات والمواسم، وتصميم الكتالوج الجديد!"
+      "id": "ann-1.0.8",
+      "title": "FaiedIptv v1.0.8 Update",
+      "title_ar": "تحديث FaiedIptv v1.0.8",
+      "message": "Lightning-fast remote navigation and SVG icons for Samsung Smart TV!",
+      "message_ar": "استجابة فائقة السرعة للريموت وأيقونات SVG متوافقة بالكامل مع تلفزيونات سامسونج!"
     }
   }
 }
