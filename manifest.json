@@ -2,18 +2,18 @@
   "appName": "FaiedIptv",
   "appId": "AuraIPTV01.Main",
   "packageId": "AuraIPTV01",
-  "appVersion": "1.0.4",
-  "contentVersion": "2026.11.23.2",
+  "appVersion": "1.0.5",
+  "contentVersion": "2026.11.23.3",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-23T15:01:40.000Z",
+  "releaseDate": "2026-11-23T15:38:00.000Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "9ae7fb89840c5c154e3f0affd9c290c702ed1cd6548796258f53eb9175d99a06",
-  "size": 521373,
+  "sha256": "4aa5b6eb706f19e7b2a8b093ad00d483bee13c1517de4c191e4cad8d1d2cf8ba",
+  "size": 1274540,
   "mandatory": false,
   "releaseNotes": {
-    "en": "v1.0.4: Fixed Store.getFavorites and getContinueWatching in vod-screen and series-screen",
-    "ar": "إصدار 1.0.4: إصلاح خطأ getFavorites و getContinueWatching في شاشتي الأفلام والمسلسلات"
+    "en": "v1.0.5: Fixed AVPlay video hole punching (zero blue screen), Morph TV home portal grid, unsquashed 16:9 landscape rails, Image 2 style catalog grid with orange tags, and Series seasons & episodes browser",
+    "ar": "إصدار 1.0.5: حل مشكلة الشاشة الزرقاء في الفيديو، إضافة شبكة بوابات Morph TV، تصحيح أبعاد البطاقات 16:9، واجهة الكتالوج بتصميم مطابق للصورة 2، وتصفح كامل لمواسم وحلقات المسلسلات"
   },
   "remoteConfig": {
     "theme": {
