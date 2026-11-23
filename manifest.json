@@ -2,19 +2,16 @@
   "appName": "FaiedIptv",
   "appId": "AuraIPTV01.Main",
   "packageId": "AuraIPTV01",
-  "appVersion": "1.0.5",
-  "contentVersion": "2026.11.23.3",
+  "appVersion": "1.0.6",
+  "contentVersion": "2026.11.23.4",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-23T15:38:00.000Z",
+  "releaseDate": "2026-11-23T14:25:30.181Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "4aa5b6eb706f19e7b2a8b093ad00d483bee13c1517de4c191e4cad8d1d2cf8ba",
-  "size": 1274540,
+  "sha256": "16116d3be83327300603986963844e7bc02c206262739144e221590c5278b958",
+  "size": 1274539,
   "mandatory": false,
-  "releaseNotes": {
-    "en": "v1.0.5: Fixed AVPlay video hole punching (zero blue screen), Morph TV home portal grid, unsquashed 16:9 landscape rails, Image 2 style catalog grid with orange tags, and Series seasons & episodes browser",
-    "ar": "إصدار 1.0.5: حل مشكلة الشاشة الزرقاء في الفيديو، إضافة شبكة بوابات Morph TV، تصحيح أبعاد البطاقات 16:9، واجهة الكتالوج بتصميم مطابق للصورة 2، وتصفح كامل لمواسم وحلقات المسلسلات"
-  },
+  "releaseNotes": "v1.0.6: Resolved syntax error in components.js, verified pure ES5 compliance on all 30 JS files, fixed Store.getFavorites and MultiView guards, full hardware video transparency hole punch, and Smarters/Morph-style catalog and seasons browser.",
   "remoteConfig": {
     "theme": {
       "accentColor": "#e50914",
