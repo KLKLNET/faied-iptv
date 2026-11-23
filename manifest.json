@@ -2,18 +2,18 @@
   "appName": "FaiedIptv",
   "appId": "AuraIPTV01.Main",
   "packageId": "AuraIPTV01",
-  "appVersion": "1.0.3",
-  "contentVersion": "2026.11.23.1",
+  "appVersion": "1.0.4",
+  "contentVersion": "2026.11.23.2",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-11-23T00:10:00.000Z",
+  "releaseDate": "2026-11-23T15:01:40.000Z",
   "packageUrl": "https://raw.githubusercontent.com/KLKLNET/faied-iptv/main/AuraIPTV-1.0.0.wgt",
   "packageFileName": "AuraIPTV-1.0.0.wgt",
-  "sha256": "b6d39af643b61486103b74adf0932f4a81c6f9325aa97e759546bfc62680acf6",
-  "size": 521024,
+  "sha256": "9ae7fb89840c5c154e3f0affd9c290c702ed1cd6548796258f53eb9175d99a06",
+  "size": 521373,
   "mandatory": false,
   "releaseNotes": {
-    "en": "v1.0.3: Tizen hardware video overlay application/avplayer plug-in, remote control D-Pad debouncing, and built-in Tizen storage/temp cleaner",
-    "ar": "إصدار 1.0.3: تضمين كائن AVPlay العتادي، تحسين استجابة الريموت كنترول ومنع التقطيع، وإضافة أداة تنظيف ذاكرة التلفزيون ومخلفات التثبيت"
+    "en": "v1.0.4: Fixed Store.getFavorites and getContinueWatching in vod-screen and series-screen",
+    "ar": "إصدار 1.0.4: إصلاح خطأ getFavorites و getContinueWatching في شاشتي الأفلام والمسلسلات"
   },
   "remoteConfig": {
     "theme": {
